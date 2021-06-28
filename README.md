@@ -5,12 +5,11 @@
 
 
 :weight_lifting:  I’m currently working on **Gympass**  
-:hammer: I use daily: `Scala`, `Kafka`, `DynamoDB`    
-:scroll: I’m currently learning: Python, Kotlin and Guitar :guitar:  
+:hammer: I use daily: `Kotlin`,`PostgreSQL` ,`Kafka`, `Scala`, `DynamoDB`    
 :thinking: I'm interested in: Innovation, Scalability, IoT, Data Structures  
 📫 Reach me out: 
 <a href="https://www.linkedin.com/in/guilhermebordallo/">
-  <img  alt="BordalloG LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  alt="BordalloG LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!--
 **BordalloG/bordallog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
