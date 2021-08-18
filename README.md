@@ -6,7 +6,7 @@
 
 :weight_lifting:  I’m currently working on **Gympass**  
 :hammer: I use daily: `Kotlin`,`PostgreSQL` ,`Kafka`, `Scala`, `DynamoDB`    
-:thinking: I'm interested in: Innovation, Scalability, IoT, Data Structures  
+:thinking: I'm interested in: Open Source, IoT
 📫 Reach me out: 
 <a href="https://www.linkedin.com/in/guilhermebordallo/">
   <img  alt="BordalloG LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
