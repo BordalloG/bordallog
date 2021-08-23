@@ -3,7 +3,7 @@
 
 
 :weight_lifting:  I’m currently working on **Gympass**  
-ℹ️ Checkout my open source project [Ktfix](https://github.com/BordalloG/ktfix)  
+ℹ️ Take a look at my open source project [Ktfix](https://github.com/BordalloG/ktfix)  
 :hammer: I use daily: `Kotlin`,`PostgreSQL` ,`Kafka`, `Scala`, `DynamoDB`    
 :thinking: I'm interested in: Open Source, IoT  
 📫 Reach me out: 
