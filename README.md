@@ -6,7 +6,5 @@
 ℹ️ Take a look at my open source project [Ktfix](https://github.com/BordalloG/ktfix)  
 :hammer: I use daily: `Kotlin`,`PostgreSQL` ,`Kafka`, `Scala`, `DynamoDB`    
 :thinking: I'm interested in: Elixir, Functional Programming  
-📫 Reach me out: 
-<a href="https://www.linkedin.com/in/guilhermebordallo/">
-  <img  alt="BordalloG LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+📫 More about me: [Bordallo.dev](https://bordallo.dev)
+
