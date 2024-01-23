@@ -1,9 +1,7 @@
-### Hi there 👋
-#### I am a Backend Software Engineer in Sao Paulo, Brazil.
+### Hi there, I am Guilherme 👋
+#### I am a Software Engineer based in Canada. 
 
-
-:weight_lifting:  I’m currently working on **Fullstack Labs**  
-ℹ️ Take a look at my open source project [Ktfix](https://github.com/BordalloG/ktfix)  
-:thinking: I'm interested in: Elixir, Functional Programming  
+I’m currently working on **Fullstack Labs**  
+You may find me working/studying with: Elixir, React, C# or Ruby.
 📫 More about me: [Bordallo.dev](https://bordallo.dev)
 
